@@ -4,9 +4,12 @@
 
 <p align="center">Este repositório contém os materiais e códigos utilizados na oficina Introdução ao Verilog Comportamental ministrado na XXXI Semana de Integração de Engenharia de Computação (SIECOMP) na Universidade Estadual de Feira de Santana (UEFS).</p>
 
-## Ministrante
-
-<a href="https://github.com/camilaqPereira"><img src="https://avatars.githubusercontent.com/u/116687830?v=4" title="camilaqPereira" width="50" height="50"></a>
+<div align="center">
+  
+  [Sobre a oficina](#sobre-a-oficina) • [Ementa](#-ementa) • [O que é Verilog?](#-o-que-é-verilog) • [Recursos](#-recursos) • 
+  [Projetos para estimular](#-projetos-em-verilog-para-estimular)
+  
+</div>
 
 ## Sobre a oficina
 
@@ -14,6 +17,11 @@ A oficina ‘Introdução ao Verilog Comportamental’ objetivou realizar uma in
 Foram abordados os fundamentos teóricos desta categoria, assim como sua aplicação em circuitos combinacionais e máquinas de estados finitas (MEFs). A oficina destinou-se aos estudantes 
 que pretendiam cursar a disciplina de Sistemas Digitais nos próximos semestres e a quaisquer outros discentes que tivessem interesse na área (e que já tenham cursado a disciplina de 
 Circuitos Digitais).
+
+## Ministrante
+
+<a href="https://github.com/camilaqPereira"><img src="https://avatars.githubusercontent.com/u/116687830?v=4" title="camilaqPereira" width="50" height="50"></a>
+
 
 ## ❓ O que é Verilog?
 
@@ -61,7 +69,7 @@ aplicação prática.
 1. [FPGA e Verilog - Pedro Souza](https://youtube.com/playlist?list=PLXyWBo_coJnN2rro0EMW5J9ruTDEgtdXg&si=tiKoX7DXRH1cm8k1)
 2. [Verilog Review - V. Hunter Adams](https://youtu.be/hiUd4TfhSGs?si=oo9sNnyAzea8uBdR)
 
-## Projetos e repositórios em Verilog para estimular...
+## 🚀 Projetos em Verilog para estimular...
 1. [DE1-SoC (FPGA) Experiments - V. Hunter Adams](https://youtube.com/playlist?list=PLDqMkB5cbBA7AHTOoyacQTAdYdtd62oQ4&si=HB9vutzDdnnEj_tq)
 2. [DE1-SoC Students Projects](https://youtube.com/playlist?list=PLDqMkB5cbBA7nUwrxsLgtrOsce9UgJXJb&si=d6_UZUVC9QMQoM_Q)
 
